@@ -153,29 +153,16 @@ $ cd plots
 $ ipython notebook
 ```
 
-Select the `transfer_plots.ipynb` notebook and execute the included code. Note that without modification,
-the code will load results from the saved log files included in this
-repository. If you've run your own training and wish to plot those log
-files, change the paths in the "Load all the data" section to point to
-your log files instead.
+Select the `transfer_plots.ipynb` notebook and execute the included
+code. Note that without modification, the code will load results from
+the cached log files included in this repository. If you've run your
+own training and wish to plot those log files, change the paths in the
+"Load all the data" section to point to your log files instead.
 
-Or, to skip all the work and just see the results, you can take a look at [this notebook with cached plots](http://nbviewer.ipython.org/url/yosinski.cs.cornell.edu/transfer_plots.ipynb).
+_Shortcut: to skip all the work and just see the results, take a look at [this notebook with cached plots](http://nbviewer.ipython.org/url/yosinski.cs.cornell.edu/transfer_plots.ipynb)._
 
 
 
 ## Questions?
 
 Please drop [me](http://yosinski.com/) a line if you have any questions!
-
-
-
-
-
-
-
-
-
-
-
-
-
