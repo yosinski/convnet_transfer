@@ -1,0 +1,5 @@
+Note: the class ids in the following datasets
+
+  whole* reduced*
+
+match the class orders in synset*txt. Other datasets have a different order that runs from 0-N for N < 1000.
