@@ -159,7 +159,7 @@ the cached log files included in this repository. If you've run your
 own training and wish to plot those log files, change the paths in the
 "Load all the data" section to point to your log files instead.
 
-_Shortcut: to skip all the work and just see the results, take a look at [this notebook with cached plots](http://nbviewer.ipython.org/url/yosinski.cs.cornell.edu/transfer_plots.ipynb)._
+_Shortcut: to skip all the work and just see the results, take a look at [this notebook with cached plots](http://nbviewer.ipython.org/github/yosinski/convnet_transfer/blob/master/plots/transfer_plots.ipynb)._
 
 
 
